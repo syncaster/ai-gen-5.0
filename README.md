@@ -2,6 +2,13 @@
 
 Kuliah Tamu - Generative AI untuk Industri 5.0
 
+## Informasi Penulis
+
+- Nama: Saiful Nur Budiman
+- GitHub: https://github.com/syncaster
+- Kampus: Universitas Islam Balitar
+- Prodi: Teknik Informatika
+
 ## Ringkasan proyek
 
 Folder ini berisi dua notebook Jupyter yang menunjukkan aplikasi generative AI dan machine learning untuk Industri 5.0:
